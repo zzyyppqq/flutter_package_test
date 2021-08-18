@@ -16,8 +16,8 @@ dependencies:
   flutter_web_plugins:
     sdk: flutter
   css_colors: ^1.0.0
-  url_launcher: ^5.4.0
-  url_launcher_web: ^2.0.2
+  url_launcher: ^5.7.7
+  url_launcher_web: ^0.1.5
 #  pub_server: ^0.1.5
 
 dev_dependencies:
